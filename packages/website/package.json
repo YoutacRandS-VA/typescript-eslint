@@ -66,7 +66,7 @@
     "stylelint-order": "^6.0.3",
     "ts-node": "*",
     "tsx": "*",
-    "webpack": "^5.88.1"
+    "webpack": "^5.94.0"
   },
   "browserslist": {
     "production": [
